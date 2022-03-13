@@ -1,7 +1,7 @@
 Hi there 👋
 
 Here is my coding for fun page!
-Below you can find my favourite projects.
+More about me: https://tinyurl.com/dmitrysieg
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrysieg)
 
