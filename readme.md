@@ -2,7 +2,7 @@ Hi there 👋
 
 Here is my coding for fun page!
 
-My personal website: http://dmitryboldyrev.ru
+My personal website: http://dmitrysieg.ru
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrysieg)
 
